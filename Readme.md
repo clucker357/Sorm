@@ -7,7 +7,7 @@ https://youtu.be/-W3E32ZvE_M?si=JZ95PKE0OPL0tKRU&t=2771
 Google Formと連携し，高次元データを解析し，マップで可視化するプロダクト
 #### 課題
 アンケートなどによってデータを収集しても管理・分析まで出来ていない．
-![](./image/slide1.jpg)
+![](image/slide1.jpg)
 #### 解決方法
 Google Form apiから取得したアンケートをアプリ上でまとめて管理し，機械学習技術である自己組織化マップ (SOM) によって分析し，高次元データを可視化
 
